@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "pwn": "echo pwn"
   },
   "dependencies": {
     "@chakra-ui/anatomy": "^2.2.1",
